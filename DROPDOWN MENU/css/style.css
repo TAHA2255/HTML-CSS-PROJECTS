@@ -1,24 +1,3 @@
-
-/* 
-.first ul{
-    overflow: auto;
-}
-.first li{
-    list-style: none;
-    float:right;
-    margin: 45px 41px;
-    padding: 5px 20px;
-    color: green;
-
-}
-.first li a{
-    border: solid yellow 2px;
-    padding: 2px 2px;
-    text-decoration: none;
-}
-.first a:hover{
-    background-color: whitesmoke;
-} */
 *{
     margin: 0;
     padding: 0;
